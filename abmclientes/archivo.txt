@@ -1,0 +1,17 @@
+[
+    {
+        "documento": "34363759",
+        "nombre": "Iv\u00e1n Claudio Gimenez",
+        "telefono": "1133804326",
+        "correo": "ivancg89@gmail.com",
+        "imagen": "20250609024156.jpg"
+    },
+    {
+        "fecha": "2025-06-10",
+        "prioridad": "Alta",
+        "usuario": "Ana",
+        "estado": "Sin asignar",
+        "titulo": "",
+        "descripcion": ""
+    }
+]
